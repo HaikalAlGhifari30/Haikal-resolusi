@@ -2,3 +2,4 @@ Haikal Resolusi
 - Konsisten untuk mempelajari web developer
 - konsisten untuk mempelajari android developer menggunakan kotlin
 - mempelajari semua yang berhubungan dengan teknologi
+- mempelajari semua yang berkaitan dengan dunia koding
